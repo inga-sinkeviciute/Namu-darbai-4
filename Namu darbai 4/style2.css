@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+table, th, tr, td {
+    border: 2px solid white;
+    color: white;
+    border-collapse: collapse;
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font-family: montserrat;
+  }
+
+  .names {
+    background-color: #b300b3;
+  }
+
+.gates {
+    background-color: #ff99c2;
+}
+
+.Jobs {
+    background-color: #c76b99;
+}
+
+.musk {
+    background-color: #ff99c2;
+}
+
+.mark  {
+    background-color: #c76b99;
+}
